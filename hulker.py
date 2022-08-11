@@ -65,11 +65,11 @@ def buildblock(size):
 	return(out_str)
 
 
-print '          _
-print '       __| | ___  ___        
-print .      / _` |/ _ \/ __|     
-print '      | (_| | (_) \__\         
-print '      \__,_|\___/|___/    
+print '          _                  '
+print '       __| | ___  ___        '
+print '      / _` |/ _ \/ __|       '
+print '      | (_| | (_) \__\       '   
+print '      \__,_|\___/|___/       '
      
 
 
